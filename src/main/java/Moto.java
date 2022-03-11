@@ -34,8 +34,8 @@ public class Moto implements Cloneable{
     public  String toString() {
         return "Moto{"+
                 "placa="+placa+
-                ", modelo="+modelo+ '\''+
-                '}';
+                ", modelo="+modelo+ '\'' +
+                "}";
 
     }
 }

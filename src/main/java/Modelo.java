@@ -32,7 +32,7 @@ public class Modelo implements Cloneable{
     public String toString(){
         return "Modelo{" +
                 "nome=" + nome +
-                ", motor=" + motor +
-                '}';
+                ", motor=" + motor + '\'' +
+                "}";
     }
 }
